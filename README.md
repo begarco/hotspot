@@ -1,3 +1,4 @@
+![HotSpot by begarco](https://github.com/begarco/hotspot/resources/blob/master/logo_hotspot.png?raw=true)
 # WiFi hotspot manager with GUI
 Contributor: [begarco](https://github.com/begarco) (Benoît Garçon)
 
